@@ -1,0 +1,9 @@
+# ScannerApp Using Windows Forms App
+
+## Описание программы
+### ScannerApp - это проект на языке C#, который сканирует изображения и сохраняет их в зависимости от размера бумаги.
+
+## Внешний вид программы
+![image](https://github.com/user-attachments/assets/fae4936b-f22c-47a5-accb-d142e10c17ab)
+
+
